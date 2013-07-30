@@ -1,6 +1,6 @@
 void setup()
 {
-for( int i = 0; i<= 9
+for( int i = 0; i<= 12
  ; i++)
 { 
   pinMode(i,OUTPUT);
@@ -10,7 +10,7 @@ for( int i = 0; i<= 9
 
 void loop()
 {
- for( int i = 0; i<= 9 ; i++)
+ for( int i = 0; i<= 12 ; i++)
 { 
    digitalWrite(i,HIGH);
    tone(9,100*i,1000);
