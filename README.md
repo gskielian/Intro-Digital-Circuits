@@ -29,4 +29,4 @@ How to add an image:
 ![long cat again](http://cache.ohinternet.com/images/5/5c/Longcat.jpg)
 
 
-##Have Fun!
+##Have Fun! [:shipit:]
